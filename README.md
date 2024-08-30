@@ -7,7 +7,7 @@
 <div class="panel panel-default" id="project-description">
 
 <div class="panel-body">
-  <p>The final result can be display here: <a href="https://Asia-Groupierre.github.io">https://github.com/AsiaGrpr/Asia-Groupierre.github.io</a> </p>
+  <p>The final result can be display here: <a href="https://Asia-Groupierre.github.io">https://Asia-Groupierre.github.io</a> </p>
 </div>
 </div>
 </div>
