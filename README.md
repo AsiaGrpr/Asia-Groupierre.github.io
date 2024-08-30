@@ -7,7 +7,7 @@
 <div class="panel panel-default" id="project-description">
 
 <div class="panel-body">
-<p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/7/a52d8e18dbe08be98472.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240830%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240830T155508Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cfb63008bb40f03b948c7b51a2c510ad4259e0b407058ba840d0f91d15349b5f" alt="" loading='lazy' style="" /></p>
+  <p>The final result can be display here: <a href="https://Asia-Groupierre.github.io">https://github.com/AsiaGrpr/Asia-Groupierre.github.io</a> </p>
 </div>
 </div>
 </div>
